@@ -1,1 +1,1 @@
-API consume
+API CONSUME
